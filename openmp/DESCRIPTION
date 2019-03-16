@@ -9,7 +9,8 @@ License: MIT +file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports:
-  Rcpp
+  Rcpp,
+  RcppArmadillo
 Suggests:
     testthat
 LinkingTo: Rcpp, RcppArmadillo
